@@ -22,7 +22,7 @@
   },
   "form": {
     "provider": "formspree",
-    "endpoint": "https://formspree.io/f/replace-with-your-id",
+    "endpoint": "https://formspree.io/f/mnjlealz",
     "method": "POST",
     "heading": "Send a message",
     "subtext": "Use this form for speaking invitations, training requests, consulting opportunities, academic inquiries, or partnership discussions.",
