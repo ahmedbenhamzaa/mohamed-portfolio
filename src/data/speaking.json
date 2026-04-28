@@ -1,0 +1,255 @@
+{
+  "pageHero": {
+    "breadcrumb": "Speaking & Press",
+    "title": "Speaking, facilitation, and international representation.",
+    "subtitle": "A press-style view of Mohamed Falfoul's public speaking, moderation, youth advocacy, and international representation across UN spaces, TEDx stages, education forums, and psychiatry congresses.",
+    "backgroundVariant": "gradient"
+  },
+  "intro": {
+    "eyebrow": "Public voice",
+    "heading": "For conferences, youth forums, universities, and international platforms.",
+    "text": "Mohamed's speaking work connects meaningful youth involvement, youth mental health, education, civic participation, and institutional decision-making. His profile combines field leadership, clinical training, facilitation, and representation in high-visibility national and international spaces.",
+    "proofPoints": [
+      "UN General Assembly youth representative and speaker",
+      "TEDx speaker across multiple youth and education events",
+      "Moderator and CME-accredited participant at the World Congress of Psychiatry",
+      "Workshop coordinator and facilitator for youth, education, and mental health platforms"
+    ]
+  },
+  "signatureTopics": [
+    {
+      "title": "Meaningful Youth Involvement",
+      "description": "From symbolic consultation to real participation in decisions, systems, and institutions."
+    },
+    {
+      "title": "Youth Mental Health and Civic Systems",
+      "description": "How organizations can design safer environments for young people before crisis points emerge."
+    },
+    {
+      "title": "Education, Participation, and Social Mobility",
+      "description": "Building structures where learners are not passive beneficiaries but active stakeholders."
+    },
+    {
+      "title": "Leadership, Advocacy, and Institutional Trust",
+      "description": "How young leaders can move from energy to legitimacy, structure, and public impact."
+    }
+  ],
+  "engagements": [
+    {
+      "id": "unga-2025",
+      "eventName": "United Nations General Assembly",
+      "organization": "United Nations / Ministry of Foreign Affairs",
+      "location": "UN HQ, New York City",
+      "year": "2025",
+      "topic": "Youth involvement in decision-making",
+      "role": "Youth Representative & Speaker",
+      "featured": true
+    },
+    {
+      "id": "wcp-2025",
+      "eventName": "25th World Congress of Psychiatry",
+      "organization": "World Psychiatric Association",
+      "location": "Prague, Czech Republic",
+      "year": "2025",
+      "topic": "Psychiatry congress moderation and professional participation",
+      "role": "Moderator & CME-Accredited Participant",
+      "featured": true
+    },
+    {
+      "id": "summit-future-2024",
+      "eventName": "Summit of the Future",
+      "organization": "UN Youth Office",
+      "location": "New York City",
+      "year": "2024",
+      "topic": "Youth representation and global policy dialogue",
+      "role": "Youth Representative / Participant",
+      "featured": true
+    },
+    {
+      "id": "eaa-doha-2024",
+      "eventName": "Empower Youth in Times of Conflict",
+      "organization": "Education Above All Foundation",
+      "location": "Doha, Qatar",
+      "year": "2024",
+      "topic": "Climate change and mental health workshops",
+      "role": "Workshop Coordinator",
+      "featured": true
+    },
+    {
+      "id": "unesco-transforming-education-2022",
+      "eventName": "Transforming Education Summit",
+      "organization": "UNESCO / United Nations",
+      "location": "UN HQ, New York City",
+      "year": "2022",
+      "topic": "Education transformation and youth participation",
+      "role": "Speaker / Participant",
+      "featured": true
+    },
+    {
+      "id": "tedx-beb-el-djebli-2019",
+      "eventName": "TEDx Beb El Djebli",
+      "organization": "TEDx",
+      "location": "Sfax, Tunisia",
+      "year": "2019",
+      "topic": "Youth leadership and civic engagement",
+      "role": "Speaker",
+      "featured": false
+    },
+    {
+      "id": "tedx-insat-2019",
+      "eventName": "TEDx INSAT",
+      "organization": "TEDx",
+      "location": "Tunis, Tunisia",
+      "year": "2019",
+      "topic": "Youth empowerment and public engagement",
+      "role": "Speaker",
+      "featured": false
+    },
+    {
+      "id": "tedx-youth-pilote-sfax-2022",
+      "eventName": "TEDx Youth @ Pilote Sfax",
+      "organization": "TEDx Youth",
+      "location": "Sfax, Tunisia",
+      "year": "2022",
+      "topic": "Youth voice and empowerment",
+      "role": "Speaker",
+      "featured": false
+    },
+    {
+      "id": "q-questions-berlin-2017",
+      "eventName": "Youth Activists Forum",
+      "organization": "Q Questions Berlin",
+      "location": "Berlin, Germany",
+      "year": "2017",
+      "topic": "Youth activism and civic participation",
+      "role": "Representative",
+      "featured": false
+    },
+    {
+      "id": "aiesec-volunteer-2023",
+      "eventName": "V for Volunteer Summit",
+      "organization": "AIESEC Tunisia",
+      "location": "Tunisia",
+      "year": "2023",
+      "topic": "Volunteer leadership and youth engagement",
+      "role": "Speaker / Facilitator",
+      "featured": false
+    },
+    {
+      "id": "youth-education-summit-tunisia-2022",
+      "eventName": "Youth Education Summit for Tunisia",
+      "organization": "Youth / Education platform",
+      "location": "Tunisia",
+      "year": "2022",
+      "topic": "Education advocacy and youth participation",
+      "role": "Speaker / Participant",
+      "featured": false
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-01",
+      "src": "/media/photo-01.jpg",
+      "alt": "Mohamed Falfoul speaking on stage",
+      "caption": "International forum speaking moment",
+      "size": "tall"
+    },
+    {
+      "id": "photo-02",
+      "src": "/media/photo-02.jpg",
+      "alt": "Mohamed Falfoul facilitating a workshop",
+      "caption": "Workshop facilitation with youth participants",
+      "size": "wide"
+    },
+    {
+      "id": "photo-03",
+      "src": "/media/photo-03.jpg",
+      "alt": "Mohamed Falfoul at a conference panel",
+      "caption": "Panel discussion and public exchange",
+      "size": "standard"
+    },
+    {
+      "id": "photo-04",
+      "src": "/media/photo-04.jpg",
+      "alt": "Mohamed Falfoul in an international representation setting",
+      "caption": "Youth representation in an international setting",
+      "size": "standard"
+    },
+    {
+      "id": "photo-05",
+      "src": "/media/photo-05.jpg",
+      "alt": "Mohamed Falfoul moderating a session",
+      "caption": "Moderation and structured dialogue",
+      "size": "tall"
+    },
+    {
+      "id": "photo-06",
+      "src": "/media/photo-06.jpg",
+      "alt": "Mohamed Falfoul with event participants",
+      "caption": "Community and participant engagement",
+      "size": "standard"
+    },
+    {
+      "id": "photo-07",
+      "src": "/media/photo-07.jpg",
+      "alt": "Mohamed Falfoul delivering a keynote",
+      "caption": "Keynote delivery on youth empowerment",
+      "size": "wide"
+    },
+    {
+      "id": "photo-08",
+      "src": "/media/photo-08.jpg",
+      "alt": "Mohamed Falfoul in a formal event setting",
+      "caption": "Formal representation and institutional presence",
+      "size": "standard"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-01",
+      "title": "Youth involvement in decision-making",
+      "organization": "United Nations General Assembly",
+      "event": "UN General Assembly",
+      "year": "2025",
+      "thumbnail": "/media/video-thumb-01.jpg",
+      "youtubeId": "VIDEO_ID_01",
+      "description": "Featured speaking moment on meaningful youth involvement and decision-making."
+    },
+    {
+      "id": "video-02",
+      "title": "TEDx talk on youth empowerment",
+      "organization": "TEDx",
+      "event": "TEDx Youth / TEDx platform",
+      "year": "2019–2022",
+      "thumbnail": "/media/video-thumb-02.jpg",
+      "youtubeId": "VIDEO_ID_02",
+      "description": "A public talk on youth leadership, identity, and civic engagement."
+    },
+    {
+      "id": "video-03",
+      "title": "Workshop facilitation and youth dialogue",
+      "organization": "Education Above All",
+      "event": "Empower Youth in Times of Conflict",
+      "year": "2024",
+      "thumbnail": "/media/video-thumb-03.jpg",
+      "youtubeId": "VIDEO_ID_03",
+      "description": "Workshop coordination around climate change, mental health, and youth engagement."
+    }
+  ],
+  "formats": [
+    "Keynote speech",
+    "Panel discussion",
+    "Panel moderation",
+    "Workshop facilitation",
+    "Youth consultation",
+    "Policy dialogue",
+    "Training session",
+    "Conference moderation"
+  ],
+  "cta": {
+    "heading": "Invite Mohamed to speak or facilitate.",
+    "subtext": "For conferences, youth forums, universities, INGOs, and institutional events seeking a speaker who combines youth empowerment, mental health, strategy, and international representation.",
+    "buttonLabel": "Send a speaking inquiry",
+    "buttonHref": "mailto:falfoul.md@gmail.com?subject=Speaking%20Inquiry%20for%20Mohamed%20Falfoul"
+  }
+}

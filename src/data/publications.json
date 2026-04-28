@@ -1,0 +1,277 @@
+{
+  "page": {
+    "eyebrow": "Academic Output",
+    "title": "Publications & Academic Output",
+    "subtitle": "A scholarly record of posters, accepted abstracts, and congress participation across child and adolescent psychiatry, neurodevelopment, trauma, parenting, and education-related mental health.",
+    "defaultSort": "desc",
+    "emptyState": "No academic output matches the selected filters."
+  },
+  "filters": {
+    "typeTabs": [
+      { "label": "All", "value": "all" },
+      { "label": "Papers", "value": "Paper" },
+      { "label": "Posters", "value": "Poster" },
+      { "label": "Abstracts", "value": "Abstract" },
+      { "label": "Congresses", "value": "Congress" }
+    ],
+    "languages": [
+      { "label": "All", "value": "all" },
+      { "label": "English", "value": "EN" },
+      { "label": "French", "value": "FR" }
+    ]
+  },
+  "items": [
+    {
+      "id": "adhd-clinical-profiles-referral-pathways-2026",
+      "title": "Evolution of Clinical Profiles and Referral Pathways in ADHD",
+      "venueOrJournal": "9th International Francophone Colloquium on ADHD, Montreal, Canada",
+      "year": 2026,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["ADHD", "Referral pathways", "Child psychiatry"]
+    },
+    {
+      "id": "adhd-symptoms-parents-tunisian-sample-2026",
+      "title": "ADHD Symptoms among Parents of Children with ADHD: Prevalence and Associated Factors in a Tunisian Sample",
+      "venueOrJournal": "9th International Francophone Colloquium on ADHD, Montreal, Canada",
+      "year": 2026,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["ADHD", "Parents", "Prevalence"]
+    },
+    {
+      "id": "maternal-alexithymia-child-psychiatry-2026",
+      "title": "Associated Factors with Maternal Alexithymia in a Child Psychiatry Setting",
+      "venueOrJournal": "IACAPAP 2026",
+      "year": 2026,
+      "type": "Abstract",
+      "language": "EN",
+      "role": "Abstract Accepted as Poster",
+      "doi": null,
+      "link": null,
+      "topics": ["Maternal alexithymia", "Child psychiatry", "Family"]
+    },
+    {
+      "id": "maternal-parenting-styles-adolescents-2026",
+      "title": "Associated Factors with Maternal Parenting Styles among Adolescents in a Child Psychiatry Setting: A Cross-Sectional Study",
+      "venueOrJournal": "IACAPAP 2026",
+      "year": 2026,
+      "type": "Abstract",
+      "language": "EN",
+      "role": "Abstract Accepted as Poster",
+      "doi": null,
+      "link": null,
+      "topics": ["Parenting", "Adolescents", "Child psychiatry"]
+    },
+    {
+      "id": "structured-therapeutic-education-program-asd-2026",
+      "title": "Evaluation of a Structured Therapeutic Education Program for Parents of Children with Autism Spectrum Disorder",
+      "venueOrJournal": "20th National Research Days in Psychiatry",
+      "year": 2026,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["Autism", "Therapeutic education", "Parents"]
+    },
+    {
+      "id": "parents-difficulties-expectations-asd-2026",
+      "title": "Identification of Difficulties and Expectations Expressed by Parents of Children with Autism Spectrum Disorder",
+      "venueOrJournal": "20th National Research Days in Psychiatry",
+      "year": 2026,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["Autism", "Parents", "Caregiver needs"]
+    },
+    {
+      "id": "adhd-girls-school-identification-2026",
+      "title": "ADHD in Girls: Toward Better School Identification — A Comparative Study Five Years Apart",
+      "venueOrJournal": "20th National Research Days in Psychiatry",
+      "year": 2026,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["ADHD", "Girls", "School identification"]
+    },
+    {
+      "id": "child-victims-violence-child-psychiatry-2026",
+      "title": "Epidemiological and Clinical Aspects of Child Victims of Violence Referred to Child Psychiatry: A Descriptive Study",
+      "venueOrJournal": "20th National Research Days in Psychiatry",
+      "year": 2026,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["Violence", "Child protection", "Child psychiatry"]
+    },
+    {
+      "id": "children-traumatic-event-exposure-military-population-encephale-2026",
+      "title": "Enfants de population militaire et exposition à un évènement traumatique",
+      "venueOrJournal": "L’Encéphale Congress, Paris, France",
+      "year": 2026,
+      "type": "Poster",
+      "language": "FR",
+      "role": "Co-author, Final Poster Presentation (P108)",
+      "doi": null,
+      "link": null,
+      "topics": ["Trauma", "Military population", "Child psychiatry"]
+    },
+    {
+      "id": "socio-epidemiological-profile-traumatic-event-mahdia-2025",
+      "title": "Socio-Epidemiological and Clinical Profile of Children Evaluated in the Child and Adolescent Psychiatry Department at the Military Hospital of Tunis for Traumatic Event Exposure",
+      "venueOrJournal": "2nd International Congress of the Community Medicine Department, University Hospital of Mahdia, Mahdia, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["Trauma", "Clinical profile", "Community medicine"]
+    },
+    {
+      "id": "school-profile-children-child-psychiatry-military-hospital-2025",
+      "title": "Profil scolaire des enfants consultant en pédopsychiatrie à l’Hôpital militaire de Tunis",
+      "venueOrJournal": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "FR",
+      "role": "Poster Presenter",
+      "doi": null,
+      "link": null,
+      "topics": ["School profile", "Child psychiatry", "Military hospital"]
+    },
+    {
+      "id": "clinical-features-traumatic-event-military-hospital-2025",
+      "title": "Clinical Features of Children Evaluated in the Child and Adolescent Psychiatry Department at the Military Hospital of Tunis for Traumatic Event Exposure",
+      "venueOrJournal": "2nd International Congress of the Community Medicine Department, University Hospital of Mahdia, Mahdia, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "EN",
+      "role": "Co-author",
+      "doi": null,
+      "link": null,
+      "topics": ["Trauma", "Clinical features", "Child psychiatry"]
+    },
+    {
+      "id": "clinical-evolution-child-psychiatry-military-hospital-2025",
+      "title": "Evolution clinique des enfants suivis en pédopsychiatrie à l’Hôpital militaire de Tunis",
+      "venueOrJournal": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "FR",
+      "role": "Co-author",
+      "doi": null,
+      "link": null,
+      "topics": ["Clinical evolution", "Child psychiatry", "Follow-up"]
+    },
+    {
+      "id": "perinatal-postnatal-features-child-psychiatry-2025",
+      "title": "Particularités périnatales et postnatales des enfants consultant en pédopsychiatrie à l’Hôpital Militaire de Tunis",
+      "venueOrJournal": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "FR",
+      "role": "Co-author",
+      "doi": null,
+      "link": null,
+      "topics": ["Perinatal features", "Postnatal features", "Child psychiatry"]
+    },
+    {
+      "id": "clinical-profile-child-psychiatry-military-hospital-2025",
+      "title": "Profil clinique des enfants consultant en pédopsychiatrie à l’Hôpital Militaire de Tunis",
+      "venueOrJournal": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "FR",
+      "role": "Co-author",
+      "doi": null,
+      "link": null,
+      "topics": ["Clinical profile", "Child psychiatry", "Military hospital"]
+    },
+    {
+      "id": "therapeutic-management-child-psychiatry-military-hospital-2025",
+      "title": "Prise en charge thérapeutique des enfants suivis en pédopsychiatrie à l’Hôpital Militaire de Tunis",
+      "venueOrJournal": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+      "year": 2025,
+      "type": "Poster",
+      "language": "FR",
+      "role": "Co-author",
+      "doi": null,
+      "link": null,
+      "topics": ["Therapeutic management", "Child psychiatry", "Care pathways"]
+    },
+    {
+      "id": "world-congress-psychiatry-prague-2025",
+      "title": "25th World Congress of Psychiatry",
+      "venueOrJournal": "Prague, Czech Republic",
+      "year": 2025,
+      "type": "Congress",
+      "language": "EN",
+      "role": "Participant",
+      "doi": null,
+      "link": null,
+      "topics": ["Psychiatry", "World congress", "Continuing medical education"]
+    },
+    {
+      "id": "franco-maghreb-tunisian-congress-psychiatry-2025",
+      "title": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry",
+      "venueOrJournal": "Djerba, Tunisia",
+      "year": 2025,
+      "type": "Congress",
+      "language": "FR",
+      "role": "Participant",
+      "doi": null,
+      "link": null,
+      "topics": ["Psychiatry", "Franco-Maghreb", "Tunisian congress"]
+    },
+    {
+      "id": "community-medicine-childhood-trauma-mahdia-2025",
+      "title": "2nd International Congress of the Community Medicine Department — Childhood Trauma",
+      "venueOrJournal": "University Hospital of Mahdia, Mahdia, Tunisia",
+      "year": 2025,
+      "type": "Congress",
+      "language": "EN",
+      "role": "Participant",
+      "doi": null,
+      "link": null,
+      "topics": ["Childhood trauma", "Community medicine", "Public health"]
+    },
+    {
+      "id": "tunisian-society-psycho-oncology-2025",
+      "title": "6th National Congress of the Tunisian Society of Psycho-Oncology",
+      "venueOrJournal": "Tunis, Tunisia",
+      "year": 2025,
+      "type": "Congress",
+      "language": "EN",
+      "role": "Participant",
+      "doi": null,
+      "link": null,
+      "topics": ["Psycho-oncology", "Psychiatry", "Continuing medical education"]
+    },
+    {
+      "id": "ibn-el-jazzar-psychiatry-day-2024",
+      "title": "17th Ibn El Jazzar Medical Days of Kairouan — 2nd Psychiatry Day",
+      "venueOrJournal": "Kairouan, Tunisia",
+      "year": 2024,
+      "type": "Congress",
+      "language": "FR",
+      "role": "Participant",
+      "doi": null,
+      "link": null,
+      "topics": ["Psychiatry", "Medical days", "Continuing medical education"]
+    }
+  ]
+}

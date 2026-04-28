@@ -1,0 +1,401 @@
+{
+  "pageHero": {
+    "breadcrumb": "Pillar 1",
+    "title": "Child & Adolescent Psychiatry",
+    "subtitle": "Clinical training and academic engagement in child and adolescent psychiatry, with experience spanning residency rotations, supervised clinical exposure, scientific poster presentations, congress participation, continuous medical education, and psychoeducational initiatives.",
+    "backgroundVariant": "dark-navy"
+  },
+  "overview": {
+    "eyebrow": "Clinical and academic profile",
+    "title": "A developing clinical profile grounded in child mental health, trauma, neurodevelopment, and family-centered care.",
+    "body": "Mohamed’s psychiatry pillar combines supervised residency experience, scientific dissemination, congress participation, and continuing medical education. The page is intentionally sober and academic, designed for hospital panels, psychiatry boards, university committees, and clinical collaborators.",
+    "highlights": [
+      "Resident in child and adolescent psychiatry across university hospital settings",
+      "Scientific posters and accepted abstracts on ADHD, ASD, trauma exposure, child violence, parenting, and school identification",
+      "Continuing medical education in neurodevelopment, psychiatric emergencies, psychoeducation, bullying prevention, gaming addiction, and child protection-related topics"
+    ]
+  },
+  "clinicalPathway": {
+    "sectionTitle": "Residency & medical pathway",
+    "sectionIntro": "A chronological view of supervised clinical exposure and medical rotations.",
+    "entries": [
+      {
+        "id": "fattouma-bourguiba-residency-2026",
+        "type": "Residency",
+        "role": "Resident",
+        "institution": "Child & Adolescent Psychiatry Department, Fattouma Bourguiba University Hospital",
+        "cityCountry": "Monastir, Tunisia",
+        "dates": "Jan 2026 – Present",
+        "description": "Participates in multidisciplinary follow-up, patient assessment, case discussions, and exposure to diagnostic and therapeutic approaches in child and adolescent psychiatry.",
+        "details": [
+          "Applied exposure to adolescent psychiatry and clinically sensitive situations requiring coordination with external authorities.",
+          "Postvention work in school environments following suicide attempts to identify vulnerable young people and assess mental health needs.",
+          "Rapid response to pediatric psychiatric emergencies including suicidal crises, extreme agitation, and acute delusional presentations.",
+          "Child protection-related assessment in cases involving violence, maltreatment, or police requisition, with medical and protection-oriented recommendations.",
+          "Therapeutic care for adolescents using approaches adapted to adolescent clinical needs."
+        ]
+      },
+      {
+        "id": "razi-residency-2025",
+        "type": "Residency",
+        "role": "Resident",
+        "institution": "Child & Adolescent Psychiatry Department, Razi University Hospital",
+        "cityCountry": "Manouba, Tunisia",
+        "dates": "Jul 2025 – Jan 2026",
+        "description": "Completed supervised clinical exposure across consultation and multidisciplinary care settings, strengthening understanding of mental health service delivery for children and adolescents.",
+        "details": [
+          "Observed outpatient and inpatient care processes, consultation dynamics, case discussion, and coordination of care.",
+          "Gained exposure to psychoeducational assessment tools and profiles, psychiatric on-call duties, hospitalization, outpatient consultations, and academic seminar coordination."
+        ]
+      },
+      {
+        "id": "military-hospital-residency-2025",
+        "type": "Residency",
+        "role": "Resident",
+        "institution": "Child & Adolescent Psychiatry Department, Military Hospital",
+        "cityCountry": "Tunis, Tunisia",
+        "dates": "Jan 2025 – Jun 2025",
+        "description": "Engaged in practical training related to child mental health assessment, psychosocial support, and psychiatric care pathways in a hospital setting.",
+        "details": [
+          "Participated in clinical learning activities and case discussions involving neurodevelopmental, behavioral, emotional, and trauma-related presentations.",
+          "Contributed to observation of emergency and on-call exposure, including somatic and psychiatric on-call contexts."
+        ]
+      },
+      {
+        "id": "samu-emergency-2024",
+        "type": "Rotation",
+        "role": "Emergency Physician",
+        "institution": "Emergency / SAMU",
+        "cityCountry": "Tunis, Tunisia",
+        "dates": "15 Jan 2024 – 15 Dec 2024",
+        "description": "Completed emergency medical exposure within SAMU and emergency care contexts."
+      },
+      {
+        "id": "infectious-diseases-rabta-2024",
+        "type": "Internship",
+        "role": "Intern",
+        "institution": "Infectious Diseases Department, Rabta University Hospital",
+        "cityCountry": "Tunis, Tunisia",
+        "dates": "02 Jan 2024 – 31 Mar 2024",
+        "description": "Completed medical internship exposure in infectious diseases."
+      },
+      {
+        "id": "pediatrics-yasminet-2024",
+        "type": "Internship",
+        "role": "Intern",
+        "institution": "Pediatrics Department, Yasminet University Hospital",
+        "cityCountry": "Tunis, Tunisia",
+        "dates": "01 Apr 2024 – 30 Jun 2024",
+        "description": "Completed pediatric medical internship exposure."
+      },
+      {
+        "id": "orthopedic-trauma-ctgb-2024",
+        "type": "Internship",
+        "role": "Intern",
+        "institution": "Orthopedic Surgery and Traumatology Emergency Care Department, CTGB",
+        "cityCountry": "Tunis, Tunisia",
+        "dates": "01 Jul 2024 – 30 Sep 2024",
+        "description": "Completed internship exposure in orthopedic surgery, traumatology, and emergency care."
+      },
+      {
+        "id": "gynecology-wassila-2024",
+        "type": "Internship",
+        "role": "Intern",
+        "institution": "Gynecology B Department, Wassila University Hospital",
+        "cityCountry": "Tunis, Tunisia",
+        "dates": "01 Oct 2024 – 01 Jan 2025",
+        "description": "Completed medical internship exposure in gynecology."
+      }
+    ]
+  },
+  "clinicalExposure": {
+    "sectionTitle": "Clinical exposure areas",
+    "sectionIntro": "Key areas of supervised exposure derived from the residency pathway.",
+    "items": [
+      {
+        "title": "Adolescent psychiatry",
+        "description": "Therapeutic care and clinical follow-up of adolescents using approaches adapted to adolescent needs."
+      },
+      {
+        "title": "Psychiatric emergencies and on-call duties",
+        "description": "Rapid clinical response to acute presentations such as suicidal crisis, extreme agitation, and acute delusional states."
+      },
+      {
+        "title": "Postvention and school-based mental health",
+        "description": "Intervention in school environments after suicide attempts to identify vulnerable young people and assess mental health needs."
+      },
+      {
+        "title": "Child protection and violence-related assessment",
+        "description": "Assessment of children and adolescents exposed to violence, maltreatment, or police requisition contexts, with medical and protection-oriented recommendations."
+      },
+      {
+        "title": "Psychoeducation and family support",
+        "description": "Exposure to psychoeducational initiatives and caregiver-centered support in child and adolescent mental health."
+      },
+      {
+        "title": "Neurodevelopmental and behavioral presentations",
+        "description": "Case discussion and clinical learning related to neurodevelopmental, behavioral, emotional, and trauma-related presentations."
+      }
+    ]
+  },
+  "academicActivity": {
+    "sectionTitle": "Academic activity",
+    "sectionIntro": "Posters, accepted abstracts, co-authored presentations, and scientific congress participation.",
+    "filters": ["All", "Presentations", "Congresses"],
+    "items": [
+      {
+        "id": "adhd-referral-pathways-2026",
+        "title": "Evolution of Clinical Profiles and Referral Pathways in ADHD",
+        "venue": "9th International Francophone Colloquium on ADHD, Montreal, Canada",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "adhd-parents-symptoms-2026",
+        "title": "ADHD Symptoms among Parents of Children with ADHD: Prevalence and Associated Factors in a Tunisian Sample",
+        "venue": "9th International Francophone Colloquium on ADHD, Montreal, Canada",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "maternal-alexithymia-2026",
+        "title": "Associated Factors with Maternal Alexithymia in a Child Psychiatry Setting",
+        "venue": "IACAPAP 2026",
+        "year": "2026",
+        "type": "Abstract",
+        "category": "Presentations",
+        "role": "Abstract Accepted as Poster"
+      },
+      {
+        "id": "maternal-parenting-styles-2026",
+        "title": "Associated Factors with Maternal Parenting Styles among Adolescents in a Child Psychiatry Setting: A Cross-Sectional Study",
+        "venue": "IACAPAP 2026",
+        "year": "2026",
+        "type": "Abstract",
+        "category": "Presentations",
+        "role": "Abstract Accepted as Poster"
+      },
+      {
+        "id": "asd-therapeutic-education-2026",
+        "title": "Evaluation of a Structured Therapeutic Education Program for Parents of Children with Autism Spectrum Disorder",
+        "venue": "20th National Research Days in Psychiatry",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "asd-parent-expectations-2026",
+        "title": "Identification of Difficulties and Expectations Expressed by Parents of Children with Autism Spectrum Disorder",
+        "venue": "20th National Research Days in Psychiatry",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "adhd-girls-school-identification-2026",
+        "title": "ADHD in Girls: Toward Better School Identification — A Comparative Study Five Years Apart",
+        "venue": "20th National Research Days in Psychiatry",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "child-victims-violence-2026",
+        "title": "Epidemiological and Clinical Aspects of Child Victims of Violence Referred to Child Psychiatry: A Descriptive Study",
+        "venue": "20th National Research Days in Psychiatry",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "trauma-exposure-profile-2025",
+        "title": "Socio-Epidemiological and Clinical Profile of Children Evaluated in the Child and Adolescent Psychiatry Department at the Military Hospital of Tunis for Traumatic Event Exposure",
+        "venue": "2nd International Congress of the Community Medicine Department, University Hospital of Mahdia, Mahdia, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "school-profile-military-hospital-2025",
+        "title": "Profil scolaire des enfants consultant en pédopsychiatrie à l’Hôpital militaire de Tunis",
+        "venue": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Poster Presenter"
+      },
+      {
+        "id": "clinical-features-trauma-2025",
+        "title": "Clinical Features of Children Evaluated in the Child and Adolescent Psychiatry Department at the Military Hospital of Tunis for Traumatic Event Exposure",
+        "venue": "2nd International Congress of the Community Medicine Department, University Hospital of Mahdia, Mahdia, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Co-author"
+      },
+      {
+        "id": "evolution-clinique-children-2025",
+        "title": "Evolution clinique des enfants suivis en pédopsychiatrie à l’Hôpital militaire de Tunis",
+        "venue": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Co-author"
+      },
+      {
+        "id": "perinatal-postnatal-features-2025",
+        "title": "Particularités périnatales et postnatales des enfants consultant en pédopsychiatrie à l’Hôpital Militaire de Tunis",
+        "venue": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Co-author"
+      },
+      {
+        "id": "clinical-profile-children-2025",
+        "title": "Profil clinique des enfants consultant en pédopsychiatrie à l’Hôpital Militaire de Tunis",
+        "venue": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Co-author"
+      },
+      {
+        "id": "therapeutic-care-children-2025",
+        "title": "Prise en charge thérapeutique des enfants suivis en pédopsychiatrie à l’Hôpital Militaire de Tunis",
+        "venue": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry, Djerba, Tunisia",
+        "year": "2025",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Co-author"
+      },
+      {
+        "id": "military-children-traumatic-event-2026",
+        "title": "Enfants de population militaire et exposition à un évènement traumatique",
+        "venue": "L’Encéphale Congress, Paris, France",
+        "year": "2026",
+        "type": "Poster",
+        "category": "Presentations",
+        "role": "Co-author, Final Poster Presentation (P108)"
+      },
+      {
+        "id": "world-congress-psychiatry-2025",
+        "title": "25th World Congress of Psychiatry",
+        "venue": "Prague, Czech Republic",
+        "year": "2025",
+        "type": "Congress",
+        "category": "Congresses",
+        "role": "Participant"
+      },
+      {
+        "id": "franco-maghreb-tunisian-psychiatry-2025",
+        "title": "41st Franco-Maghreb Congress of Psychiatry & 2nd Tunisian Congress of Psychiatry",
+        "venue": "Djerba, Tunisia",
+        "year": "2025",
+        "type": "Congress",
+        "category": "Congresses",
+        "role": "Participant"
+      },
+      {
+        "id": "community-medicine-childhood-trauma-2025",
+        "title": "2nd International Congress of the Community Medicine Department, University Hospital of Mahdia — Theme: Childhood Trauma",
+        "venue": "Mahdia, Tunisia",
+        "year": "2025",
+        "type": "Congress",
+        "category": "Congresses",
+        "role": "Participant"
+      },
+      {
+        "id": "psycho-oncology-congress-2025",
+        "title": "6th National Congress of the Tunisian Society of Psycho-Oncology",
+        "venue": "Tunis, Tunisia",
+        "year": "2025",
+        "type": "Congress",
+        "category": "Congresses",
+        "role": "Participant"
+      },
+      {
+        "id": "ibn-el-jazzar-psychiatry-day-2024",
+        "title": "17th Ibn El Jazzar Medical Days of Kairouan — 2nd Psychiatry Day",
+        "venue": "Kairouan, Tunisia",
+        "year": "2024",
+        "type": "Congress",
+        "category": "Congresses",
+        "role": "Participant"
+      }
+    ]
+  },
+  "medicalEducation": {
+    "sectionTitle": "Medical education",
+    "items": [
+      {
+        "title": "Postgraduate Diploma in Perinatal Mental Health",
+        "institution": "Medical School of Tunis",
+        "location": "Tunisia",
+        "dates": "Sep 2025 – Present"
+      },
+      {
+        "title": "Postgraduate Diploma in School and University Medicine",
+        "institution": "Medical School of Monastir",
+        "location": "Tunisia",
+        "dates": "Oct 2024 – Jul 2025"
+      },
+      {
+        "title": "Postgraduate Diploma in Therapeutic Patient Education",
+        "institution": "Medical School of Sousse",
+        "location": "Tunisia",
+        "dates": "Sep 2024 – Jun 2025"
+      },
+      {
+        "title": "Medical Studies",
+        "institution": "Medical School of Sfax",
+        "location": "Tunisia",
+        "dates": "Sep 2018 – Jul 2024"
+      },
+      {
+        "title": "Pre-Medical Studies",
+        "institution": "Cheikh Anta Diop University of Dakar",
+        "location": "Senegal",
+        "dates": "Sep 2014 – Jul 2017"
+      }
+    ]
+  },
+  "continuingTraining": {
+    "sectionTitle": "Continuing medical training",
+    "sectionIntro": "Selected workshops, webinars, seminars, and congress-based training related to child and adolescent psychiatry.",
+    "items": [
+      "Attention-Deficit/Hyperactivity Disorder (ADHD) — Workshop Participant, Jeunes Psy, 6 Nov 2024",
+      "Child Psychoaffective Development — Workshop Participant, Jeunes Psy, 16 Oct 2024",
+      "Bipolar Disorder in Children — Workshop Participant, Jeunes Psy, 28 Nov 2024",
+      "Stress, Performance, Burnout and Compassion — Workshop Participant, Psyconnect, 18 Jan 2025",
+      "Medication Adherence in Children and Adolescents with Mental Health Disorders — IACAPAP Webinar, 22 Jan 2025",
+      "Neurobiology of Depression — Workshop Participant, Jeunes Psy, 14 May 2025",
+      "The Five Languages of Psychiatry — IACAPAP Webinar, 21 May 2025",
+      "Gaming Addiction — Workshop Participant, Jeunes Psy, 23 May 2025",
+      "Psychiatric Emergencies — Seminar Participant, College of Psychiatry and Child Psychiatry, May 2025",
+      "Preventing Bullying in School Settings: The Shared Concern Method — Workshop Participant, STPEA Sfax, 21 Nov 2024",
+      "Psychoeducation for Families of Children with Autism Spectrum Disorder — Workshop Participant, STPEA Sfax, 21 Nov 2024",
+      "Social Media Use and Cyber Mobbing in Young People — IACAPAP Webinar, 18 Mar 2026",
+      "Interpretation of Children’s Drawings — Workshop Participant, Razi Hospital, 30 Oct 2025",
+      "Introduction to the PACT Intervention Program — Workshop Participant, Razi University Hospital, 13–14 Nov 2025",
+      "Psychopathology Seminar Series — Monji Slim Hospital & National College of Psychiatry and Child Psychiatry, Feb–Jun 2025",
+      "Child Psychiatry Seminar Series 2025–2026 — National College of Psychiatry and Child Psychiatry of Tunisia, Nov 2025–May 2026",
+      "Drafting Medical Certificates for Women Victims of Violence — Workshop Participant, Ibn El Jazzar Medical Days, 2024"
+    ]
+  },
+  "cta": {
+    "heading": "For clinical, academic, and child mental health collaborations",
+    "subtext": "Contact Mohamed for academic inquiries, clinical collaborations, scientific events, or child and adolescent mental health initiatives.",
+    "buttonLabel": "Start an academic inquiry",
+    "buttonHref": "mailto:falfoul.md@gmail.com"
+  }
+}

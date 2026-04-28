@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --color-deep-navy: #0A1628;
+  --color-light-navy: #162035;
+  --color-electric-blue: #2563EB;
+  --color-gold: #C9A84C;
+  --color-mid-grey: #8B9BB4;
+  --color-white: #FFFFFF;
+  --font-display: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-body: 'Manrope', Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes gold-shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.reveal-fade-up {
+  opacity: 0;
+  animation: fade-up 720ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.reveal-fade-in {
+  opacity: 0;
+  animation: fade-in 600ms ease forwards;
+}
+
+.gold-shimmer-hover {
+  background-image: linear-gradient(110deg, #C9A84C 0%, #E8D78B 18%, #C9A84C 36%, #C9A84C 100%);
+  background-size: 220% 100%;
+}
+
+.gold-shimmer-hover:hover {
+  animation: gold-shimmer 1.8s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

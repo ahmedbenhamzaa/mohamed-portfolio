@@ -1,0 +1,317 @@
+{
+  "pageHero": {
+    "breadcrumb": "Pillar 4",
+    "title": "Leadership, Advocacy & International Representation",
+    "subtitle": "Leadership and representation across youth-led organizations, international forums, and policy-oriented platforms, with sustained engagement in civic participation, education advocacy, and public speaking.",
+    "backgroundVariant": "gradient"
+  },
+  "intro": {
+    "eyebrow": "Public leadership profile",
+    "heading": "A record of founding, representing, speaking, and shaping youth-centered institutions.",
+    "body": "This pillar brings together Mohamed Falfoul’s long-term leadership roles, international representation, speaking engagements, advocacy campaigns, policy contributions, and recognitions across youth, education, health, and civic participation ecosystems."
+  },
+  "leadershipRoles": [
+    {
+      "id": "youth-clubs-founder-president",
+      "organization": "YOUTH CLUBs Association",
+      "role": "Founder & Founding President",
+      "location": "Tunisia",
+      "dates": "Jun 2013 – Aug 2018",
+      "roleType": "Founder",
+      "description": "Founded and led a youth-driven organization focused on education, civic engagement, and youth empowerment.",
+      "highlights": [
+        "Drove the organization’s early structuring, visibility, and expansion, laying the foundations for sustained national growth.",
+        "Led strategic positioning, partnership development, and organizational scaling during its formative years."
+      ]
+    },
+    {
+      "id": "youth-clubs-supervising-council",
+      "organization": "YOUTH CLUBs Association",
+      "role": "Supervising Council Member",
+      "location": "Tunisia",
+      "dates": "Sep 2018 – Aug 2022",
+      "roleType": "Governance",
+      "description": "Supported the organization’s strategic orientation and governance following its expansion phase.",
+      "highlights": [
+        "Contributed to institutional continuity, leadership transition, and long-term organizational consolidation."
+      ]
+    },
+    {
+      "id": "fness-senegal-vp-international",
+      "organization": "Senegalese Federation of Health Students",
+      "role": "Co-Founder & Vice President for International Affairs",
+      "location": "Senegal",
+      "dates": "Apr 2016 – Apr 2018",
+      "roleType": "Co-Founder",
+      "description": "Co-founded and helped structure a student-led federation designed to strengthen representation and international engagement in the health sector.",
+      "highlights": [
+        "Played a key role in the federation’s development, visibility, and outreach during its early growth stage.",
+        "Led external relations and international affairs, contributing to expansion of partnerships and broader institutional recognition."
+      ]
+    },
+    {
+      "id": "associamed-supervising-council",
+      "organization": "AssociaMed Tunisia",
+      "role": "Supervising Council Member",
+      "location": "Tunisia",
+      "dates": "Selected role",
+      "roleType": "Governance",
+      "description": "Contributed to governance and strategic continuity within a national medical student organization.",
+      "highlights": []
+    },
+    {
+      "id": "ifmsa-ga-chairperson",
+      "organization": "International Federation of Medical Students’ Associations (IFMSA)",
+      "role": "General Assemblies Chairperson",
+      "location": "International",
+      "dates": "Selected role",
+      "roleType": "International Chairing",
+      "description": "Held a chairing role within international medical student governance and assembly processes.",
+      "highlights": []
+    },
+    {
+      "id": "transform-education-network",
+      "organization": "Transform Education Network",
+      "role": "Member",
+      "location": "Global",
+      "dates": "Selected role",
+      "roleType": "Network Member",
+      "description": "Engaged in a global network focused on education transformation and youth participation.",
+      "highlights": []
+    },
+    {
+      "id": "mun-chair-delegate",
+      "organization": "Model United Nations",
+      "role": "Chair and Delegate",
+      "location": "International / Tunisia",
+      "dates": "Selected experience",
+      "roleType": "Diplomacy Simulation",
+      "description": "Built public speaking, diplomacy, moderation, and negotiation experience through Model United Nations platforms.",
+      "highlights": []
+    }
+  ],
+  "internationalSpeaking": [
+    {
+      "id": "unga-2025",
+      "eventName": "United Nations General Assembly",
+      "organization": "United Nations / Ministry of Foreign Affairs of Tunisia",
+      "location": "UN HQ, New York City",
+      "year": "2025",
+      "topic": "Youth involvement in decision-making",
+      "role": "Youth Representative & Speaker",
+      "featured": true
+    },
+    {
+      "id": "world-congress-psychiatry-2025",
+      "eventName": "25th World Congress of Psychiatry",
+      "organization": "World Psychiatric Association",
+      "location": "Prague, Czech Republic",
+      "year": "2025",
+      "topic": "Psychiatry congress moderation and CME-accredited participation",
+      "role": "Moderator & CME-Accredited Participant",
+      "featured": true
+    },
+    {
+      "id": "summit-future-2024",
+      "eventName": "Summit of the Future",
+      "organization": "UN Youth Office",
+      "location": "New York City",
+      "year": "2024",
+      "topic": "Youth representation and future-oriented global participation",
+      "role": "Youth Representative / Participant",
+      "featured": true
+    },
+    {
+      "id": "eaa-conflict-2024",
+      "eventName": "Empower Youth in Times of Conflict",
+      "organization": "Education Above All",
+      "location": "Doha, Qatar",
+      "year": "2024",
+      "topic": "Climate change and mental health workshop coordination",
+      "role": "Workshop Coordinator",
+      "featured": false
+    },
+    {
+      "id": "unesco-transforming-education-2022",
+      "eventName": "Transforming Education Summit",
+      "organization": "UNESCO",
+      "location": "UN HQ, New York City",
+      "year": "2022",
+      "topic": "Education transformation and youth participation",
+      "role": "Speaker / Participant",
+      "featured": true
+    },
+    {
+      "id": "tedx-beb-el-djebli-2019",
+      "eventName": "TEDx Beb El Djebli",
+      "organization": "TEDx",
+      "location": "Sfax, Tunisia",
+      "year": "2019",
+      "topic": "Youth empowerment and civic engagement",
+      "role": "Speaker",
+      "featured": false
+    },
+    {
+      "id": "tedx-insat-2019",
+      "eventName": "TEDx INSAT",
+      "organization": "TEDx",
+      "location": "Tunis, Tunisia",
+      "year": "2019",
+      "topic": "Youth leadership and participation",
+      "role": "Speaker",
+      "featured": false
+    },
+    {
+      "id": "tedx-youth-pilote-sfax-2022",
+      "eventName": "TEDx Youth @ Pilote Sfax",
+      "organization": "TEDx Youth",
+      "location": "Sfax, Tunisia",
+      "year": "2022",
+      "topic": "Youth voice and leadership",
+      "role": "Speaker",
+      "featured": false
+    },
+    {
+      "id": "q-questions-berlin-2017",
+      "eventName": "Youth Activists Forum",
+      "organization": "Q Questions Berlin",
+      "location": "Berlin, Germany",
+      "year": "2017",
+      "topic": "Youth activism and international representation",
+      "role": "Representative",
+      "featured": false
+    },
+    {
+      "id": "aiesec-v-volunteer-2023",
+      "eventName": "V for Volunteer Summit",
+      "organization": "AIESEC Tunisia",
+      "location": "Tunisia",
+      "year": "2023",
+      "topic": "Volunteering, youth engagement, and facilitation",
+      "role": "Speaker / Facilitator",
+      "featured": false
+    },
+    {
+      "id": "youth-education-summit-tunisia-2022",
+      "eventName": "Youth Education Summit for Tunisia",
+      "organization": "Youth Education Summit for Tunisia",
+      "location": "Tunisia",
+      "year": "2022",
+      "topic": "Education and youth participation",
+      "role": "Speaker / Participant",
+      "featured": false
+    },
+    {
+      "id": "chabeb-idmej-i9ssa2-2024",
+      "eventName": "Chabeb Tounssi Bayna Idmej wa I9ssa2",
+      "organization": "Youth forum",
+      "location": "Tunis, Tunisia",
+      "year": "2024",
+      "topic": "Youth inclusion and exclusion",
+      "role": "Speaker / Participant",
+      "featured": false
+    }
+  ],
+  "advocacyCampaigns": [
+    {
+      "id": "eaa-youth-education-advocacy",
+      "campaignName": "Education and Youth Advocacy Initiatives",
+      "organization": "Education Above All Foundation",
+      "scope": "International",
+      "year": "Selected years",
+      "description": "Contributed to youth-centered advocacy and education initiatives focused on access, participation, and human development."
+    },
+    {
+      "id": "yc-youth-empowerment-civic-participation",
+      "campaignName": "Youth Empowerment and Civic Participation Initiatives",
+      "organization": "YOUTH CLUBs Association",
+      "scope": "National",
+      "year": "2013–2022",
+      "description": "Contributed to youth empowerment and civic participation initiatives through organizational leadership, advocacy, and public engagement."
+    },
+    {
+      "id": "public-engagement-youth-education-forums",
+      "campaignName": "Public Engagement through Youth and Education Forums",
+      "organization": "Multiple platforms",
+      "scope": "National / International",
+      "year": "Selected years",
+      "description": "Spoke and facilitated across youth and education forums to promote meaningful youth involvement and education reform."
+    }
+  ],
+  "policyStrategyContributions": [
+    {
+      "id": "ifmsa-international-msi-policy",
+      "title": "International Task Force on Meaningful Student Involvement Policy Document",
+      "organization": "IFMSA",
+      "role": "Policy Contributor",
+      "year": "Selected year",
+      "description": "Contributed to policy language and positioning around meaningful student involvement in education and institutional processes."
+    },
+    {
+      "id": "national-task-force-msi-policy",
+      "title": "National Task Force on Meaningful Student Involvement Policy Document",
+      "organization": "IFMSA / National Task Force",
+      "role": "Policy Contributor",
+      "year": "Selected year",
+      "description": "Supported national-level policy thinking on learner engagement and student participation."
+    },
+    {
+      "id": "ayc-policy-papers-education",
+      "title": "Policy Papers on Sexual Education and Extracurricular Engagement in Formal Education",
+      "organization": "AYC",
+      "role": "Supervisor / Contributor",
+      "year": "Selected year",
+      "description": "Supervised and contributed to policy papers translating educational and youth concerns into structured advocacy outputs."
+    }
+  ],
+  "awardsRecognition": [
+    {
+      "id": "jci-most-influential-2023",
+      "name": "Most Influential Youth Leaders in Tunisia",
+      "awardingBody": "JCI International",
+      "year": "2023",
+      "significance": "Recognition of national youth leadership and public influence."
+    },
+    {
+      "id": "change-world-mun-honorable-mention",
+      "name": "Honorable Mention",
+      "awardingBody": "Change the World Model United Nations, UN Headquarters",
+      "year": "Selected year",
+      "significance": "Recognition within an international diplomacy and youth leadership platform hosted at the UN Headquarters."
+    },
+    {
+      "id": "model-who-best-chair-2018",
+      "name": "Best Chair",
+      "awardingBody": "Model WHO",
+      "year": "2018",
+      "significance": "Awarded for excellence in chairing, moderation, and health diplomacy simulation leadership."
+    },
+    {
+      "id": "african-medical-students-cpd",
+      "name": "Representative of African Medical Students",
+      "awardingBody": "51st UN Commission on Population and Development",
+      "year": "Selected year",
+      "significance": "Recognition of continental-level medical student representation in a UN policy forum."
+    },
+    {
+      "id": "model-who-best-delegate-2017",
+      "name": "Best Delegate",
+      "awardingBody": "Model WHO",
+      "year": "2017",
+      "significance": "Awarded for high-level performance in health diplomacy, negotiation, and public speaking."
+    },
+    {
+      "id": "undp-mena-sdg-camps-prize",
+      "name": "MENA Regional SDG Camps Prize",
+      "awardingBody": "UNDP",
+      "year": "Selected year",
+      "significance": "Regional recognition linked to SDG-oriented youth engagement and development action."
+    }
+  ],
+  "cta": {
+    "heading": "Invite Mohamed for leadership, advocacy, or international representation opportunities.",
+    "subtext": "For conferences, youth forums, policy dialogues, education summits, and high-level facilitation formats.",
+    "buttonLabel": "Start a conversation",
+    "buttonHref": "mailto:falfoul.md@gmail.com?subject=Leadership%20and%20Speaking%20Inquiry"
+  }
+}

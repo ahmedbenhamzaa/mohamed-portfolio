@@ -1,0 +1,217 @@
+{
+  "hero": {
+    "eyebrow": "Child Psychiatry • Youth Strategy • Training • Advocacy",
+    "name": "Mohamed Falfoul",
+    "subtitle": "A multidisciplinary profile operating at the intersection of youth mental health, institutional strategy, capacity building, and international representation.",
+    "roles": [
+      "Resident in Child & Adolescent Psychiatry",
+      "Strategy & Organizational Development Consultant",
+      "Training & Capacity Building Facilitator",
+      "Youth Advocate & International Representative"
+    ],
+    "primaryCta": {
+      "label": "Explore My Work",
+      "href": "#pillars"
+    },
+    "secondaryCta": {
+      "label": "Download CV",
+      "href": "/cv/Mohamed-Falfoul-CV.pdf"
+    },
+    "scrollIndicatorLabel": "Scroll"
+  },
+  "intro": {
+    "eyebrow": "Professional positioning",
+    "title": "Built for clinical credibility, institutional strategy, and public-stage leadership.",
+    "body": "Mohamed Falfoul is a medical resident in child and adolescent psychiatry, strategy consultant, trainer, and youth advocate working across clinical settings, scientific dissemination, youth empowerment, organizational development, policy engagement, and civic participation.",
+    "proofPoints": [
+      "Clinical residency in child and adolescent psychiatry across Tunisian university hospital settings.",
+      "Strategic advisory work with youth-centered institutions, ministries, NGOs, and international platforms.",
+      "1190+ hours of training delivered across leadership, advocacy, medical education, facilitation, mental health, and organizational development.",
+      "International representation and speaking across UN, UNESCO, TEDx, Education Above All, and youth policy platforms."
+    ]
+  },
+  "metrics": {
+    "eyebrow": "Signature proof",
+    "title": "A portfolio designed around evidence, not noise.",
+    "items": [
+      {
+        "value": 1190,
+        "suffix": "+",
+        "label": "Training hours delivered",
+        "description": "Across youth leadership, advocacy, facilitation, medical education, mental health awareness, and capacity building."
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": "Professional pillars",
+        "description": "Clinical psychiatry, strategy, training, and international advocacy organized into a clear portfolio architecture."
+      },
+      {
+        "value": 16,
+        "suffix": "+",
+        "label": "Scientific posters & abstracts",
+        "description": "Including ADHD, autism spectrum disorder, child trauma, violence, parenting, school profiles, and therapeutic education."
+      },
+      {
+        "value": 10,
+        "suffix": "+",
+        "label": "International and national stages",
+        "description": "Including UN, UNESCO, TEDx, World Congress of Psychiatry, Education Above All, and youth forums."
+      }
+    ]
+  },
+  "pillars": {
+    "eyebrow": "Four-pillar architecture",
+    "title": "Choose the lens that matches your decision.",
+    "subtitle": "The same profile speaks differently to a hospital panel, an INGO recruiter, a training buyer, and a conference organizer. Each pillar gives the right evidence in the right order.",
+    "items": [
+      {
+        "id": "psychiatry",
+        "number": "01",
+        "title": "Child & Adolescent Psychiatry",
+        "shortTitle": "Psychiatry",
+        "href": "/psychiatry",
+        "audience": "Hospital panels, academic boards, psychiatry programs",
+        "summary": "Clinical training and academic engagement in child and adolescent psychiatry, spanning residency rotations, scientific posters, congresses, continuing medical education, and psychoeducational initiatives.",
+        "highlights": [
+          "Resident at Fattouma Bourguiba University Hospital, Razi University Hospital, and Military Hospital clinical settings.",
+          "Scientific work on ADHD, ASD, child trauma, child victims of violence, parenting, and school identification.",
+          "Continuing medical education in ADHD, psychiatric emergencies, PACT, cybermobbing, bullying prevention, and therapeutic education."
+        ],
+        "ctaLabel": "View clinical profile"
+      },
+      {
+        "id": "strategy",
+        "number": "02",
+        "title": "Strategy & Organizational Development",
+        "shortTitle": "Strategy",
+        "href": "/strategy",
+        "audience": "INGOs, NGOs, ministries, education institutions",
+        "summary": "Strategic and organizational advisory work focused on youth empowerment, institutional development, policy support, governance, and systems strengthening.",
+        "highlights": [
+          "Strategic development work with the Ministry of Youth and Sports in Tunisia.",
+          "Advisory and policy contributions through Education Above All, IFMSA, YOUTH CLUBs, and national task-force contexts.",
+          "Governance, training-system, curriculum, and youth-department structuring projects for mission-driven organizations."
+        ],
+        "ctaLabel": "View strategy work"
+      },
+      {
+        "id": "training",
+        "number": "03",
+        "title": "Training & Capacity Building",
+        "shortTitle": "Training",
+        "href": "/training",
+        "audience": "Corporate L&D teams, HR directors, INGOs, NGOs",
+        "summary": "Design and delivery of training programs for youth leaders, students, educators, civil society actors, health-related stakeholders, and international student networks.",
+        "highlights": [
+          "1190+ hours of training delivered.",
+          "Training areas include leadership, facilitation, advocacy, civic engagement, organizational development, project design, mental health awareness, and soft skills.",
+          "Selected highlights include BLS for primary school teachers, advocacy campaigns for LMSA Libya, protection policies, medical education trainers, and ToT programs."
+        ],
+        "ctaLabel": "View training portfolio"
+      },
+      {
+        "id": "leadership",
+        "number": "04",
+        "title": "Leadership, Advocacy & International Representation",
+        "shortTitle": "Leadership",
+        "href": "/leadership",
+        "audience": "Conference organizers, youth platforms, INGOs, policy forums",
+        "summary": "Leadership and representation across youth-led organizations, international forums, policy-oriented platforms, and public speaking spaces.",
+        "highlights": [
+          "Founder and founding president of YOUTH CLUBs Association.",
+          "Youth representative and speaker at the United Nations General Assembly.",
+          "TEDx speaker, UNESCO Transforming Education Summit participant, Education Above All workshop coordinator, and international youth forum representative."
+        ],
+        "ctaLabel": "View leadership profile",
+        "recognition": true
+      }
+    ]
+  },
+  "featuredHighlights": {
+    "eyebrow": "Selected highlights",
+    "title": "Signals that matter to decision-makers.",
+    "items": [
+      {
+        "title": "UN General Assembly youth representative",
+        "category": "International representation",
+        "description": "Represented Tunisia alongside the Ministry of Foreign Affairs and delivered a speech on youth involvement in decision-making at UN Headquarters in New York.",
+        "href": "/leadership",
+        "accent": "gold"
+      },
+      {
+        "title": "Child & adolescent psychiatry residency",
+        "category": "Clinical foundation",
+        "description": "Clinical training across child and adolescent psychiatry departments, with exposure to adolescent psychiatry, emergencies, child protection, postvention, and multidisciplinary care.",
+        "href": "/psychiatry",
+        "accent": "blue"
+      },
+      {
+        "title": "Scientific work on ADHD, ASD, trauma, and violence",
+        "category": "Academic dissemination",
+        "description": "Poster and abstract contributions presented or accepted at national and international psychiatry and child mental health congresses.",
+        "href": "/publications",
+        "accent": "blue"
+      },
+      {
+        "title": "1190+ hours of training delivered",
+        "category": "Capacity building",
+        "description": "A substantial training practice across leadership, advocacy, facilitation, medical education, mental health, and organizational development.",
+        "href": "/training",
+        "accent": "blue"
+      },
+      {
+        "title": "Youth strategy and policy development",
+        "category": "Institutional strategy",
+        "description": "Strategic and policy-oriented work involving youth empowerment, education support, meaningful student involvement, and organizational development.",
+        "href": "/strategy",
+        "accent": "blue"
+      },
+      {
+        "title": "TEDx, UNESCO, EAA, and youth forums",
+        "category": "Speaking and facilitation",
+        "description": "Public speaking and facilitation experience across TEDx platforms, UNESCO education spaces, Education Above All, youth summits, and international forums.",
+        "href": "/speaking",
+        "accent": "gold"
+      }
+    ]
+  },
+  "audiencePathways": {
+    "eyebrow": "Audience pathways",
+    "title": "Find the evidence you need in one click.",
+    "items": [
+      {
+        "title": "For hospitals & academic panels",
+        "description": "Residency, rotations, scientific posters, congresses, medical education, and clinical contributions.",
+        "href": "/psychiatry",
+        "ctaLabel": "Review clinical profile"
+      },
+      {
+        "title": "For INGOs, NGOs & ministries",
+        "description": "Youth strategy, policy development, governance, organizational structuring, and institutional advisory work.",
+        "href": "/strategy",
+        "ctaLabel": "Review strategy work"
+      },
+      {
+        "title": "For training buyers",
+        "description": "Training hours, topics, client references, selected highlights, and facilitation methodology.",
+        "href": "/training",
+        "ctaLabel": "Review training portfolio"
+      },
+      {
+        "title": "For conference organizers",
+        "description": "International stages, TEDx talks, public speaking, moderation, representation, and signature topics.",
+        "href": "/speaking",
+        "ctaLabel": "Review speaking profile"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bring a clinical, strategic, and youth-centered voice into your next initiative.",
+    "subtext": "For academic collaborations, strategy projects, training programs, youth policy work, or speaking invitations, use the contact page to reach Mohamed directly.",
+    "buttonLabel": "Contact Mohamed",
+    "buttonHref": "/contact",
+    "secondaryButtonLabel": "View speaking profile",
+    "secondaryButtonHref": "/speaking"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "brand": {
+    "name": "Mohamed Falfoul",
+    "tagline": "Child Psychiatry • Youth Strategy • Training • Advocacy"
+  },
+  "links": [
+    { "label": "Home", "href": "/" },
+    { "label": "Psychiatry", "href": "/psychiatry" },
+    { "label": "Strategy", "href": "/strategy" },
+    { "label": "Training", "href": "/training" },
+    { "label": "Leadership", "href": "/leadership" },
+    { "label": "Publications", "href": "/publications" },
+    { "label": "Speaking", "href": "/speaking" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "social": {
+    "linkedin": "",
+    "email": "falfoul.md@gmail.com"
+  }
+}

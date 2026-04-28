@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Manrope:wght@400;500;600;700&display=swap');
+
+:root {
+  --deep-navy: #0A1628;
+  --light-navy: #162035;
+  --white: #FFFFFF;
+  --electric-blue: #2563EB;
+  --gold: #C9A84C;
+  --mid-grey: #8B9BB4;
+}
+
+.publications-hero-texture {
+  background:
+    radial-gradient(circle at 20% 20%, rgba(37, 99, 235, 0.16), transparent 28%),
+    radial-gradient(circle at 82% 12%, rgba(139, 155, 180, 0.12), transparent 24%),
+    linear-gradient(135deg, rgba(10, 22, 40, 1), rgba(22, 32, 53, 0.92));
+}
+
+.publications-hero-texture::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.08;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+.publication-filter-button,
+.publication-language-button {
+  border: 1px solid rgba(10, 22, 40, 0.14);
+  border-radius: 999px;
+  padding: 0.65rem 0.95rem;
+  font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--deep-navy);
+  background: #fff;
+  transition: border-color 180ms ease, color 180ms ease, background-color 180ms ease, transform 180ms ease;
+}
+
+.publication-filter-button:hover,
+.publication-language-button:hover {
+  border-color: rgba(37, 99, 235, 0.45);
+  color: var(--electric-blue);
+  transform: translateY(-1px);
+}
+
+.publication-filter-button-active,
+.publication-language-button-active {
+  border-color: var(--electric-blue);
+  color: #fff;
+  background: var(--electric-blue);
+}
+
+.publication-list-item {
+  background: #fff;
+  transition: background-color 180ms ease;
+}
+
+.publication-list-item:hover {
+  background: rgba(10, 22, 40, 0.018);
+}
+
+.publication-badge,
+.publication-language-badge,
+.publication-role-badge,
+.publication-topic-chip {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
+  line-height: 1;
+}
+
+.publication-badge {
+  padding: 0.45rem 0.65rem;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: 1px solid rgba(37, 99, 235, 0.22);
+  color: var(--electric-blue);
+  background: rgba(37, 99, 235, 0.06);
+}
+
+.publication-badge-paper {
+  color: var(--deep-navy);
+  border-color: rgba(10, 22, 40, 0.24);
+  background: rgba(10, 22, 40, 0.04);
+}
+
+.publication-badge-poster {
+  color: var(--electric-blue);
+  border-color: rgba(37, 99, 235, 0.24);
+  background: rgba(37, 99, 235, 0.06);
+}
+
+.publication-badge-abstract {
+  color: #5D6E89;
+  border-color: rgba(139, 155, 180, 0.38);
+  background: rgba(139, 155, 180, 0.08);
+}
+
+.publication-badge-congress {
+  color: var(--deep-navy);
+  border-color: rgba(10, 22, 40, 0.16);
+  background: rgba(10, 22, 40, 0.035);
+}
+
+.publication-language-badge {
+  padding: 0.45rem 0.56rem;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.11em;
+  border: 1px solid rgba(10, 22, 40, 0.12);
+  color: var(--deep-navy);
+  background: #fff;
+}
+
+.publication-role-badge {
+  padding: 0.45rem 0.65rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--mid-grey);
+  border: 1px solid rgba(139, 155, 180, 0.24);
+  background: rgba(139, 155, 180, 0.06);
+}
+
+.publication-topic-chip {
+  padding: 0.42rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--deep-navy);
+  border: 1px solid rgba(10, 22, 40, 0.1);
+  background: rgba(10, 22, 40, 0.025);
+}
+
+.publication-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2rem;
+  border-bottom: 1px solid currentColor;
+  font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--electric-blue);
+}
+
+.publication-link:hover {
+  color: var(--deep-navy);
+}

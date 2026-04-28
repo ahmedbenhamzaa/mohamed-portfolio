@@ -1,0 +1,257 @@
+{
+  "pageHero": {
+    "breadcrumb": "Training & Capacity Building",
+    "title": "Training & Capacity Building",
+    "subtitle": "Designing and delivering high-impact capacity-building programs for youth leaders, students, educators, civil society actors, health-related stakeholders, corporates, INGOs, and public institutions.",
+    "backgroundVariant": "gradient"
+  },
+  "stats": [
+    {
+      "id": "participants",
+      "label": "Participants trained",
+      "value": 0,
+      "suffix": "+",
+      "note": "Replace with confirmed figure",
+      "visible": true
+    },
+    {
+      "id": "countries",
+      "label": "Countries / ecosystems reached",
+      "value": 0,
+      "suffix": "+",
+      "note": "Replace with confirmed figure",
+      "visible": true
+    },
+    {
+      "id": "organizations",
+      "label": "Organizations supported",
+      "value": 0,
+      "suffix": "+",
+      "note": "Replace with confirmed figure",
+      "visible": true
+    },
+    {
+      "id": "experience",
+      "label": "Years of experience",
+      "value": 10,
+      "suffix": "+",
+      "note": "Based on leadership and training activity since 2013",
+      "visible": true
+    }
+  ],
+  "supportingMetrics": [
+    {
+      "id": "training-hours",
+      "value": "1190+",
+      "label": "training hours delivered"
+    },
+    {
+      "id": "tot-medical-education",
+      "value": "43h",
+      "label": "medical education trainer program"
+    },
+    {
+      "id": "tot-dental-students",
+      "value": "50h",
+      "label": "Training of Trainers program"
+    }
+  ],
+  "coreTrainingAreas": [
+    "Leadership development",
+    "Facilitation and group dynamics",
+    "Youth participation",
+    "Advocacy and civic engagement",
+    "Organizational development",
+    "Project design",
+    "Mental health awareness",
+    "Soft skills",
+    "Capacity building",
+    "Medical education",
+    "Training of Trainers",
+    "Protection and safeguarding",
+    "Health strategy",
+    "Basic Life Support"
+  ],
+  "featuredHighlights": [
+    {
+      "id": "bls-ministry-education-2025",
+      "organization": "Ministry of Education",
+      "topic": "Basic Life Support (BLS)",
+      "scale": "Primary school teachers across the Manouba region",
+      "year": "2025",
+      "audienceType": "Government",
+      "description": "Trained primary school teachers in Basic Life Support, translating practical emergency-response skills into a school-based education setting."
+    },
+    {
+      "id": "advocacy-lmsa-libya-2025",
+      "organization": "LMSA Libya",
+      "topic": "Designing and Implementing Advocacy Campaigns",
+      "scale": "Youth and medical student advocacy audience",
+      "year": "2025",
+      "audienceType": "INGO",
+      "description": "Delivered applied training on advocacy campaign design, implementation logic, messaging, and mobilization."
+    },
+    {
+      "id": "medical-education-trainers-associamed-2026",
+      "organization": "AssociaMed Tunisia",
+      "topic": "Training Medical Education Trainers",
+      "scale": "43-hour trainer development program",
+      "year": "2026",
+      "audienceType": "Academic",
+      "description": "Delivered a structured program covering training preparation, facilitation, assessment, and trainer-development skills."
+    },
+    {
+      "id": "tot-iads-2026",
+      "organization": "International Association of Dental Students",
+      "topic": "Training of Trainers (ToT)",
+      "scale": "50-hour ToT program",
+      "year": "2026",
+      "audienceType": "Academic",
+      "description": "Delivered an intensive Training of Trainers program focused on facilitation architecture, delivery quality, and trainer readiness."
+    }
+  ],
+  "portfolioFilters": ["All", "INGO", "Corporate", "Government", "Academic"],
+  "portfolio": [
+    {
+      "id": "protection-save-children-2024",
+      "organization": "Save the Children",
+      "topic": "Protection Policies",
+      "year": "2024",
+      "audienceType": "INGO",
+      "scale": "Safeguarding and protection policy audience",
+      "description": "Contributed to training and awareness efforts related to protection policies and safeguarding."
+    },
+    {
+      "id": "health-strategies-rabta-2024",
+      "organization": "Rabta University Hospital",
+      "topic": "Health Strategies Seminar",
+      "year": "2024",
+      "audienceType": "Academic",
+      "scale": "Infectious Diseases Department, two sessions",
+      "description": "Delivered a seminar on health strategies for a hospital department audience, connecting health-system thinking with practical service contexts."
+    },
+    {
+      "id": "bls-ministry-education-2025",
+      "organization": "Ministry of Education",
+      "topic": "Basic Life Support (BLS)",
+      "year": "2025",
+      "audienceType": "Government",
+      "scale": "Primary school teachers across Manouba",
+      "description": "Trained primary school teachers across the Manouba region in Basic Life Support."
+    },
+    {
+      "id": "advocacy-lmsa-libya-2025",
+      "organization": "LMSA Libya",
+      "topic": "Designing and Implementing Advocacy Campaigns",
+      "year": "2025",
+      "audienceType": "INGO",
+      "scale": "Youth and medical-student advocacy audience",
+      "description": "Delivered training on advocacy campaign design and implementation."
+    },
+    {
+      "id": "pals-2025",
+      "organization": "European Pediatric Advanced Life Support",
+      "topic": "Pediatric Advanced Life Support",
+      "year": "2025",
+      "audienceType": "Academic",
+      "scale": "Medical training context",
+      "description": "Advanced pediatric emergency training item listed among selected training highlights."
+    },
+    {
+      "id": "medical-education-trainers-associamed-2026",
+      "organization": "AssociaMed Tunisia",
+      "topic": "Training Medical Education Trainers",
+      "year": "2026",
+      "audienceType": "Academic",
+      "scale": "43-hour program",
+      "description": "Delivered a 43-hour training program on medical education, including preparation, facilitation, assessment, and trainer development skills."
+    },
+    {
+      "id": "tot-iads-2026",
+      "organization": "International Association of Dental Students",
+      "topic": "Training of Trainers (ToT)",
+      "year": "2026",
+      "audienceType": "Academic",
+      "scale": "50-hour ToT program",
+      "description": "Delivered a 50-hour Training of Trainers program."
+    },
+    {
+      "id": "education-above-all-youth",
+      "organization": "Education Above All",
+      "topic": "Youth empowerment and education advocacy facilitation",
+      "year": "Selected experience",
+      "audienceType": "INGO",
+      "scale": "International education and youth platform",
+      "description": "Supported youth-centered learning, advocacy, and education engagement spaces."
+    },
+    {
+      "id": "biat-capacity-building",
+      "organization": "BIAT",
+      "topic": "Capacity building / soft skills",
+      "year": "Selected experience",
+      "audienceType": "Corporate",
+      "scale": "Private-sector training context",
+      "description": "Training client listed among delivered-for organizations; details can be expanded once confirmed."
+    },
+    {
+      "id": "international-school-carthage",
+      "organization": "International School of Carthage",
+      "topic": "Youth-focused training and facilitation",
+      "year": "Selected experience",
+      "audienceType": "Academic",
+      "scale": "School / education setting",
+      "description": "Delivered training or facilitation for an education-sector audience."
+    },
+    {
+      "id": "ohchr-youth-training",
+      "organization": "Office of the High Commissioner for Human Rights",
+      "topic": "Youth, rights, and civic engagement",
+      "year": "Selected experience",
+      "audienceType": "INGO",
+      "scale": "International human-rights context",
+      "description": "Training client listed among delivered-for organizations; details can be expanded once confirmed."
+    },
+    {
+      "id": "faculty-pharmacy-monastir",
+      "organization": "Faculty of Pharmacy of Monastir",
+      "topic": "Student capacity building",
+      "year": "Selected experience",
+      "audienceType": "Academic",
+      "scale": "University setting",
+      "description": "Delivered training in an academic/student development context."
+    }
+  ],
+  "clientWall": [
+    "IFMSA",
+    "Education Above All",
+    "Wallah We Can",
+    "Rotaract",
+    "YOUTH CLUBs Association",
+    "Dental Students Federation",
+    "BIAT",
+    "ISEN",
+    "AssociaMed Sousse",
+    "AssociaMed Tunisia",
+    "TIMUN",
+    "Faculty of Pharmacy of Monastir",
+    "FNESS Senegal",
+    "University of Manouba",
+    "Junior Enterprise ISCAE",
+    "Hult Prize Tunisia",
+    "AIESEC Carthage",
+    "Faculty of Medicine of Sfax",
+    "UNDP",
+    "Tunisian Red Crescent",
+    "LMSA Libya",
+    "Office of the High Commissioner for Human Rights",
+    "International School of Carthage",
+    "International Association of Dental Students"
+  ],
+  "cta": {
+    "heading": "Build a training experience that is serious, practical, and memorable.",
+    "subtext": "For INGOs, corporates, public institutions, universities, and youth-led organizations seeking structured capacity building, facilitation, or Training of Trainers programs.",
+    "buttonLabel": "Request Training",
+    "buttonHref": "mailto:falfoul.md@gmail.com?subject=Training%20Inquiry%20for%20Mohamed%20Falfoul",
+    "variant": "dark"
+  }
+}

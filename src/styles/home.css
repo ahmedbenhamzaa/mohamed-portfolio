@@ -1,0 +1,56 @@
+.home-mesh-gradient {
+  position: absolute;
+  inset: -20%;
+  background:
+    radial-gradient(circle at 12% 18%, rgba(37, 99, 235, 0.32), transparent 28%),
+    radial-gradient(circle at 78% 12%, rgba(22, 32, 53, 0.88), transparent 32%),
+    radial-gradient(circle at 70% 74%, rgba(201, 168, 76, 0.10), transparent 26%),
+    linear-gradient(135deg, #060E1A 0%, #0A1628 45%, #162035 100%);
+  filter: saturate(112%);
+  animation: home-mesh-drift 18s ease-in-out infinite alternate;
+}
+
+.home-noise-texture {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.12;
+  mix-blend-mode: screen;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.026) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(circle at 50% 40%, black 0%, transparent 74%);
+}
+
+.home-scroll-line {
+  animation: home-scroll-line 1.55s ease-in-out infinite;
+}
+
+@keyframes home-mesh-drift {
+  0% {
+    transform: translate3d(-1.5%, -1%, 0) scale(1);
+  }
+  100% {
+    transform: translate3d(1.5%, 1%, 0) scale(1.03);
+  }
+}
+
+@keyframes home-scroll-line {
+  0% {
+    transform: translateY(-120%);
+  }
+  50% {
+    transform: translateY(80%);
+  }
+  100% {
+    transform: translateY(240%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-mesh-gradient,
+  .home-scroll-line {
+    animation: none;
+  }
+}

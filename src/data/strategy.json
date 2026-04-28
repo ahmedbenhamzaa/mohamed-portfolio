@@ -1,0 +1,187 @@
+{
+  "pageHero": {
+    "breadcrumb": "Strategy & Organizational Development",
+    "title": "Strategy & Organizational Development",
+    "subtitle": "Strategic and organizational advisory work focused on youth empowerment, institutional development, policy support, and systems strengthening across public institutions, civil society organizations, and youth-centered initiatives.",
+    "backgroundVariant": "gradient"
+  },
+  "overview": {
+    "eyebrow": "Pillar 2",
+    "heading": "Structured advisory work for youth-centered institutions.",
+    "body": "Mohamed supports organizations that work with young people by clarifying priorities, strengthening governance, designing practical systems, and translating participation principles into institutional language.",
+    "proofPoints": [
+      "Youth strategy and public-sector alignment",
+      "Organizational governance and internal structuring",
+      "Policy development and education support"
+    ]
+  },
+  "display": {
+    "clientDisplayMode": "styledTextBlocks",
+    "note": "Replace styledTextBlocks with logoBlocks later if brand logo assets are provided."
+  },
+  "tabs": [
+    {
+      "id": "youth-strategy",
+      "label": "Youth Strategy",
+      "summary": "Public, civic, and foundation-linked work focused on youth priorities, empowerment, institutional alignment, and education participation.",
+      "projects": [
+        {
+          "id": "ministry-youth-sports-strategy",
+          "organization": "Ministry of Youth and Sports",
+          "projectType": "Strategic Development Consultant",
+          "year": "2024–Present",
+          "region": "MENA",
+          "description": "Supports reflection on youth priorities, institutional direction, and programmatic alignment for youth engagement and public-sector responsiveness.",
+          "capabilities": ["Youth strategy", "Institutional alignment", "Programmatic structuring"]
+        },
+        {
+          "id": "education-above-all-youth-advocacy",
+          "organization": "Education Above All Foundation",
+          "projectType": "Youth Advocate",
+          "year": "Selected engagement",
+          "region": "Global",
+          "description": "Contributes to youth-centered advocacy and education initiatives focused on access, participation, and human development.",
+          "capabilities": ["Education advocacy", "Youth declarations", "Global participation"]
+        },
+        {
+          "id": "youth-clubs-strategic-development",
+          "organization": "YOUTH CLUBs Association",
+          "projectType": "Strategic Developer",
+          "year": "Selected engagement",
+          "region": "MENA",
+          "description": "Supported the strategic development of a youth-led organization advocating for better education and stronger youth empowerment.",
+          "capabilities": ["Vision and mission", "Organizational direction", "Advocacy alignment"]
+        }
+      ]
+    },
+    {
+      "id": "organizational-development",
+      "label": "Organizational Development Consultancy",
+      "summary": "Consultancy-style projects translating governance, learning, health, and youth-programming needs into practical systems and operating models.",
+      "projects": [
+        {
+          "id": "being-learning-governance-risk",
+          "organization": "Being Learning and Support Network",
+          "projectType": "Facilitator / Organizational Development Contributor",
+          "year": "2026",
+          "region": "Global",
+          "description": "Contributed to a learning day on governance, wellbeing, and risk management for mission-driven organizational teams.",
+          "capabilities": ["Governance", "Risk management", "Wellbeing systems"]
+        },
+        {
+          "id": "training-system-curriculum-design",
+          "organization": "Mission-driven organizations",
+          "projectType": "Training System and Curriculum Design Consultant",
+          "year": "Selected projects",
+          "region": "MENA",
+          "description": "Designed structured training systems and Training of Trainers frameworks to move organizations from ad hoc sessions to sustainable learning pathways.",
+          "capabilities": ["Training architecture", "ToT design", "Learning pathways"]
+        },
+        {
+          "id": "governance-internal-regulations",
+          "organization": "Youth-led and mission-driven organizations",
+          "projectType": "Governance and Internal Regulations Consultant",
+          "year": "Selected projects",
+          "region": "MENA",
+          "description": "Supported the development of internal regulations, role clarity, decision-making mechanisms, and operational governance tools.",
+          "capabilities": ["Internal regulations", "Role clarity", "Decision rights"]
+        },
+        {
+          "id": "youth-department-structuring",
+          "organization": "Youth-focused institutions",
+          "projectType": "Youth Department and Strategic Structuring Consultant",
+          "year": "Selected projects",
+          "region": "MENA",
+          "description": "Supported the development of dedicated youth departments and connected youth programming to broader organizational strategy and positioning.",
+          "capabilities": ["Department structuring", "Youth programming", "Strategic positioning"]
+        },
+        {
+          "id": "tunisian-padel-circuit-health-standards",
+          "organization": "Tunisian Padel Circuit",
+          "projectType": "Health Standards and Systems Development Consultant",
+          "year": "Selected project",
+          "region": "MENA",
+          "description": "Translated health, safety, and monitoring needs into practical standards, structured operational norms, and governance tools for a national sports environment.",
+          "capabilities": ["Health standards", "Operational norms", "Monitoring systems"]
+        },
+        {
+          "id": "strategic-advisory-support",
+          "organization": "IFMSA / CIMVA / Other organizations",
+          "projectType": "Strategic and Organizational Advisory Support",
+          "year": "Selected projects",
+          "region": "Global",
+          "description": "Provided advisory input on positioning, priorities, governance, and institutional effectiveness for youth-led and mission-driven organizations.",
+          "capabilities": ["Strategic capacity", "Governance maturity", "Institutional effectiveness"]
+        }
+      ]
+    },
+    {
+      "id": "policy-education",
+      "label": "Policy Development & Education Support",
+      "summary": "Policy and education support work that transforms youth participation, learner engagement, and educational concerns into structured advocacy outputs.",
+      "projects": [
+        {
+          "id": "ifmsa-policy-developer",
+          "organization": "International Federation of Medical Students’ Associations (IFMSA)",
+          "projectType": "Policy Developer",
+          "year": "Selected engagement",
+          "region": "Global",
+          "description": "Contributed to international policy work related to meaningful student involvement in education and institutional processes.",
+          "capabilities": ["Policy language", "Student involvement", "Advocacy outputs"]
+        },
+        {
+          "id": "national-task-force-msi",
+          "organization": "National Task Force on Meaningful Student Involvement",
+          "projectType": "Policy Contributor",
+          "year": "Selected engagement",
+          "region": "MENA",
+          "description": "Supported national-level policy thinking on student participation and the adaptation of international participation concepts to local advocacy contexts.",
+          "capabilities": ["National policy", "Participation frameworks", "Education advocacy"]
+        },
+        {
+          "id": "youth-clubs-policy-papers",
+          "organization": "YOUTH CLUBs Association",
+          "projectType": "Supervisor / Contributor to Policy Papers",
+          "year": "Selected papers",
+          "region": "MENA",
+          "description": "Supervised and contributed to policy papers on sexual education and the importance of extracurricular activities in formal education.",
+          "capabilities": ["Policy papers", "Sexual education", "Extracurricular engagement"]
+        },
+        {
+          "id": "medical-school-sfax-research-education",
+          "organization": "Medical School of Sfax",
+          "projectType": "Research and Education Support Contributor",
+          "year": "Selected engagement",
+          "region": "Africa",
+          "description": "Assisted research and education-related work linked to medical education, pedagogy, and academic development.",
+          "capabilities": ["Medical education", "Academic development", "Pedagogy"]
+        }
+      ]
+    }
+  ],
+  "clients": [
+    { "name": "Ministry of Youth and Sports", "region": "MENA", "category": "Public sector" },
+    { "name": "Education Above All", "region": "Global", "category": "Foundation" },
+    { "name": "YOUTH CLUBs Association", "region": "MENA", "category": "Youth organization" },
+    { "name": "Wallah We Can", "region": "MENA", "category": "Civil society" },
+    { "name": "Being Learning and Support Network", "region": "Global", "category": "Learning network" },
+    { "name": "Tunisian Padel Circuit", "region": "MENA", "category": "Sports / health systems" },
+    { "name": "CIMVA", "region": "MENA", "category": "Mission-driven organization" },
+    { "name": "IFMSA", "region": "Global", "category": "International federation" },
+    { "name": "National Task Force on Meaningful Student Involvement", "region": "MENA", "category": "Policy task force" },
+    { "name": "Medical School of Sfax", "region": "Africa", "category": "Academic institution" }
+  ],
+  "capabilities": [
+    { "title": "Strategic direction", "description": "Clarifying priorities, institutional direction, and programmatic alignment." },
+    { "title": "Governance systems", "description": "Building role clarity, internal regulations, and decision-making mechanisms." },
+    { "title": "Policy development", "description": "Turning participation principles into structured policy and advocacy language." },
+    { "title": "Learning architecture", "description": "Designing training systems, curricula, and Training of Trainers pathways." }
+  ],
+  "cta": {
+    "heading": "Discuss a strategy or organizational development challenge",
+    "subtext": "For ministries, INGOs, NGOs, education institutions, and youth-centered organizations seeking sharper strategy, stronger governance, or practical systems design.",
+    "buttonLabel": "Start a Strategy Conversation",
+    "buttonHref": "mailto:falfoul.md@gmail.com?subject=Strategy%20and%20Organizational%20Development%20Inquiry",
+    "variant": "dark"
+  }
+}
